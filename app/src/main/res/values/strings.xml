@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">App_AgendaPelis</string>
+
+    <!--MAIN-->
+    <string name="Btn_Login">Login</string>
+    <string name="Btn_Registro">Registro</string>
+
+    <!--REGISTRO-->
+    <string name="CrearCuenta">Crear una Cuenta</string>
+    <string name="NombreEt">Nombre</string>
+    <string name="CorreoEt">Correo Electronico</string>
+    <string name="ContraseñaEt">Contraseña</string>
+    <string name="ConfirmarContraEt">Confirmar Contraseña</string>
+    <string name="RegistroUsu">Registrar</string>
+    <string name="TengoCuenta">Tengo una cuenta</string>
+
+    <!--    MENU PRINCIPAL-->
+    <string name="CerrarC">Salir</string>
+
+    <!--    ACTIVIDAD LOGIN-->
+    <string name="IniciarS">Iniciar Sesion</string>
+    <string name="CorreoL">Correo</string>
+    <string name="PasswordL">Contraseña</string>
+    <string name="Btn_LoginI">Ingresar</string>
+    <string name="UsuarioNuevo">No Tienes una Cuenta?. Registrate!</string>
+
+    <!--    MENU PRINCIPAL-->
+    <string name="BienvenidoP">Bienvenido(a)</string>
+    <string name="NombreP"> -- </string>
+    <string name="CorreoP"> -- </string>
+    <string name="Agregar_Peli">Agregar Pelicula</string>
+
+    <!--    AGREGAR PELICULA-->
+    <string name="id_Usuario">id del usuario</string>
+    <string name="Correo_Usuario">Correo de Usuarios</string>
+    <string name="Fecha_hora">Fecha y hora actual</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Btn_Calendario">Calendario</string>
+    <string name="Feha">00/00/0000</string>
+    <string name="Estado">No finalizado</string>
+
+
+</resources>

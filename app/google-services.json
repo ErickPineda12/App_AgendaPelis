@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936859844968",
+    "project_id": "appmovies-4841a",
+    "storage_bucket": "appmovies-4841a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936859844968:android:06b5d3d366335f558896dd",
+        "android_client_info": {
+          "package_name": "dam.erick.app_agendapelis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpw-800W-9e6unRaADgq6Jt5upVF08jE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
